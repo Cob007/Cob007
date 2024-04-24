@@ -15,8 +15,8 @@
 </div>
 <div>
   <img width=50% height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cob007&layout=compact&theme=radical" />
-  <img  align="right" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width=50% height="300"/>
-  
+<!--   <img  align="right" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width=50% height="300"/>
+   -->
 </div>
 
 <br>
@@ -46,6 +46,13 @@
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=git"/>](https://git-scm.com/)
 
 <br>
+
+## Contact me:
+<div>
+<a href="https://www.instagram.com/cob007/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto: michaelcob2@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/micheal-adeniyi-software-engineer" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
 
 <!--
 **Cob007/Cob007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
