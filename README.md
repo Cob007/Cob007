@@ -46,10 +46,13 @@
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=git"/>](https://git-scm.com/)
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=bitbucket"/>](https://git-scm.com/)
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=androidstudio"/>](https://developer.android.com/studio)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=firebase"/>](https://firebase.google.com/)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=gradle"/>](https://gradle.org/)
 
   
-
   
+
+
 
 <br>
 
@@ -64,7 +67,7 @@
 
 ------
 Credit: [Cob007](https://github.com/cob007)
-Last Edited on: 24/04/2024
+Last Edited on: 09/30/2024
 
 <!--
 **Cob007/Cob007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
